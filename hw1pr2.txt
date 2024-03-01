@@ -6,7 +6,8 @@
 // Step 1: Take 8.5x11 sheet of paper.
 // Step 2: Fold top left corner of paper the the vertical midpoint of sheet.
 // Step 3: Fold top right corner of paper the the vertical midpoint of sheet.
-// Step 4: Take either edge of the side and fold to meet other side.
+// Step 4: Take left edge of the side and fold to meet other side.
+// Step 4: Take right edge of the side and fold to meet other side.
 // Step 5: Take top of right side of the paper.
 // Step 6: Fold to the bottom of the sheet horizonally.
 // Step 7: Take top of left side of the paper.
